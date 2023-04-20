@@ -16,6 +16,8 @@
   --light-gray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
+
+  --height: 100%;
 }
 
 html {
@@ -28,6 +30,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 30px;
+  min-height: var(--height);
   background-color: var(--light-gray);
 }
 
