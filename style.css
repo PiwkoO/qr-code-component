@@ -41,6 +41,7 @@ body {
   border-radius: 20px;
   max-width: 320px;
   background-color: var(--white);
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.05);
 }
 
 .qr-code__img {
