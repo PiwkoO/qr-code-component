@@ -10,6 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -36,7 +37,11 @@ In this project I started with mobile-first approach. It was fun building this c
 
 ### What I learned
 
-Mostly all the things in this project I already knew but still I taught me to be more careful with component responsiveness. This project showed me that with a small change of CSS and different approach we can have the same effect but with better written code.
+Mostly all the things in this project I already knew but still I taught me to be more careful with component responsiveness. This project showed me that with a small change of CSS and different approach we can have the same effect but with better written code. Also, to make this component more user-friendly I decided to add short script for mobile devices. 
+
+### Useful resources
+
+- [Mobile viewport height](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97) - this article helped me improve app by adding better ux on mobile devices
 
 ## Author
 
