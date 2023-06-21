@@ -37,7 +37,7 @@ In this project I started with mobile-first approach. It was fun building this c
 
 ### What I learned
 
-Mostly all the things in this project I already knew but still I taught me to be more careful with component responsiveness. This project showed me that with a small change of CSS and different approach we can have the same effect but with better written code. Also, to make this component more user-friendly I decided to add short script for mobile devices. 
+Mostly all the things in this project I already knew but still I taught me to be more careful with component responsiveness. This project showed me that with a small change of CSS and different approach we can have the same effect but with better written code. Also, to make this component more user-friendly I decided to add short script for mobile devices.
 
 ### Useful resources
 
